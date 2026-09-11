@@ -6,6 +6,12 @@ Repositório de estudos e prática dos conceitos de Python que venho aprendendo 
 
 Biotecnólogo (UFU) e Mestre em Biologia Química (UNIFESP) em transição de carreira para desenvolvimento back-end. Mais sobre minha trajetória: [LinkedIn](https://linkedin.com/in/luiz-fernando-covizzi) | [Perfil GitHub](https://github.com/LufeCovizzi)
 
+## Índice
+
+- [01 - Fundamentos](./01-fundamentos) — tipos e operadores, estruturas condicionais, loops
+- [02 - Funções](./02-funcoes) — funções básicas, parâmetros e retorno, boas práticas
+- [03 - Estruturas de Dados](./03-estruturas-de-dados) — manipulação de strings, listas, tuplas, dicionários
+
 ## Como uso este repositório
 
 Cada arquivo `.py` contém:
