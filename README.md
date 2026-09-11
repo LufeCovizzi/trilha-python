@@ -8,9 +8,9 @@ Biotecnólogo (UFU) e Mestre em Biologia Química (UNIFESP) em transição de ca
 
 ## Índice
 
-- [01 - Fundamentos](./01-fundamentos) — tipos e operadores, estruturas condicionais, loops
-- [02 - Funções](./02-funcoes) — funções básicas, parâmetros e retorno, boas práticas
-- [03 - Estruturas de Dados](./03-estruturas-de-dados) — manipulação de strings, listas, tuplas, dicionários
+- [01 - Fundamentos](./01-fundamentos) - tipos e operadores, estruturas condicionais, loops
+- [02 - Funções](./02-funcoes) - funções básicas, parâmetros e retorno, boas práticas
+- [03 - Estruturas de Dados](./03-estruturas-de-dados) - manipulação de strings, listas, tuplas, dicionários
 
 ## Como uso este repositório
 
@@ -19,4 +19,4 @@ Cada arquivo `.py` contém:
 - Código comentado explicando a lógica
 - Exemplos práticos de uso
 
-Este é um repositório vivo — atualizado conforme avanço nos estudos.
+Este é um repositório vivo - atualizado conforme avanço nos estudos.
