@@ -1,5 +1,5 @@
 # Listas em Python
-# Estudado em: [preencha a data]
+# Estudado em: 10/09/2026
 # Curso: Trabalhando com Listas em Python - DIO/Luizalabs
 
 # --- CRIANDO E ACESSANDO ---
