@@ -11,7 +11,8 @@ Biotecnólogo (UFU) e Mestre em Biologia Química (UNIFESP) em transição de ca
 - [01 - Fundamentos](./01-fundamentos) - tipos e operadores, estruturas condicionais, loops
 - [02 - Funções](./02-funcoes) - funções básicas, parâmetros e retorno, boas práticas
 - [03 - Estruturas de Dados](./03-estruturas-de-dados) - manipulação de strings, listas, tuplas, dicionários
-- [04 - Herança](./04-heranca) - herança simples, sobrescrita de `__init__`, `super()`
+- [04 - Herança](./04-heranca) - herança simples, sobrescrita de `__init__`, `super()`, herança múltipla
+- [05 - Encapsulamento](./05-encapsulamento) - atributos públicos/privados, properties
 
 ## Como uso este repositório
 
