@@ -13,6 +13,7 @@ Biotecnólogo (UFU) e Mestre em Biologia Química (UNIFESP) em transição de ca
 - [03 - Estruturas de Dados](./03-estruturas-de-dados) - manipulação de strings, listas, tuplas, dicionários
 - [04 - Herança](./04-heranca) - herança simples, sobrescrita de `__init__`, `super()`, herança múltipla
 - [05 - Encapsulamento](./05-encapsulamento) - atributos públicos/privados, properties
+- [06 - Polimorfismo](./06-polimorfismo) - polimorfismo, sobrescrita de métodos com herança
 
 ## Como uso este repositório
 
