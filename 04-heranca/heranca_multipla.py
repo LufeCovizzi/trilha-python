@@ -61,14 +61,3 @@ print(ornitorrinco.cor_bico)   # laranja -> veio de Ave
 print(Ornitorrinco.__mro__)
 # Mostra a ordem exata que o Python usa para resolver cada chamada
 
-# --- *args VS **kwargs: relembrando a diferença (você já viu isso na aula de funções) ---
-# *args  -> empacota argumentos POSICIONAIS extras em uma tupla
-# **kwargs -> empacota argumentos NOMEADOS extras em um dicionário
-# Aqui usamos só **kw porque chamamos Ornitorrinco(...) inteiramente com
-# argumentos nomeados (nro_patas=4, cor_pelo="marrom", etc.)
-
-# --- POR QUE ISSO IMPORTA PRA VOCÊ ESPECIFICAMENTE ---
-# No FastAPI (que você já usa no LabTrack), é bem comum ver **kwargs em
-# funções que recebem parâmetros flexíveis de configuração, e heranças
-# múltiplas aparecem em bibliotecas como o Pydantic, onde um schema pode
-# herdar validações de mais de uma classe base ao mesmo tempo.
